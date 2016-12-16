@@ -6,7 +6,7 @@ The assignment instructions say to always use echo = TRUE. This is the default, 
 
 
 ```r
-#Source data .zip file (repdata_data_activity.zip) downloaded from link 
+#Source data .zip file (activity.zip) downloaded from link 
 #on Coursera website: https://d396qusza40orc.cloudfront.net
 #Assumption: .zip has been unzipped and the .csv it contains is located in 
 #the same directory as the .Rmd file.
